@@ -4,11 +4,11 @@
 
 ## Projects
 
-1. [Basic Network Security Assessment: Identifying Vulnerabilities in Network Configurations](https://github.com/yourusername/Security-Assessment-Projects-for-Beginners/blob/main/project-1-Basic-Network-Security-Assessment.md)
-2. [File System Security Assessment: Detecting Unauthorized Access and Modifications](https://github.com/yourusername/Security-Assessment-Projects-for-Beginners/blob/main/project-2-File-System-Security-Assessment.md)
-3. [Web Application Security Assessment: Assessing Common Web Vulnerabilities](https://github.com/yourusername/Security-Assessment-Projects-for-Beginners/blob/main/project-3-Web-Application-Security-Assessment.md)
-4. [System Log Assessment: Analyzing Logs for Potential Security Incidents](https://github.com/yourusername/Security-Assessment-Projects-for-Beginners/blob/main/project-4-System-Log-Assessment.md)
-5. [User Account Security Assessment: Evaluating User Permissions and Activity Logs](https://github.com/yourusername/Security-Assessment-Projects-for-Beginners/blob/main/project-5-User-Account-Security-Assessment.md)
+1. [Basic Network Security Assessment: Identifying Vulnerabilities in Network Configurations](https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners/blob/main/project-1-Basic%20Network%20Security%20Assessment%3A%20Identifying%20Vulnerabilities%20in%20Network%20Configurations.md)
+2. [File System Security Assessment: Detecting Unauthorized Access and Modifications](https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners/blob/main/project-2-File%20System%20Security%20Assessment%3A%20Detecting%20Unauthorized%20Access%20and%20Modifications.md)
+3. [Web Application Security Assessment: Assessing Common Web Vulnerabilities](https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners/blob/main/project-3-Web%20Application%20Security%20Assessment%3A%20Assessing%20Common%20Web%20Vulnerabilities.md)
+4. [System Log Assessment: Analyzing Logs for Potential Security Incidents](https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners/blob/main/project-4-System%20Log%20Assessment%3A%20Analyzing%20Logs%20for%20Potential%20Security%20Incidents.md)
+5. [User Account Security Assessment: Evaluating User Permissions and Activity Logs](https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners/blob/main/project-5-User%20Account%20Security%20Assessment%3A%20Evaluating%20User%20Permissions%20and%20Activity%20Logs.md)
 
 ## Getting Started
 
@@ -16,8 +16,8 @@ To get started with these projects, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/Security-Assessment-Projects-for-Beginners.git
-    cd Security-Assessment-Projects-for-Beginners
+    git clone https://github.com/0xrajneesh/Security-Assessments-projects-for-Beginners.git
+    cd Security-Assessments-projects-for-Beginners
     ```
 
 2. Ensure you meet the pre-requisites and have the necessary tools and setup as described in each project.
